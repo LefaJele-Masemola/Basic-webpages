@@ -1,0 +1,14 @@
+*{
+    background-color: whitesmoke;
+    
+}
+ .example1{
+    color: seagreen;
+}
+
+.example2{
+    color: blue;
+    background-color: orange;
+    height: 150px;
+    width: 10%;
+}
