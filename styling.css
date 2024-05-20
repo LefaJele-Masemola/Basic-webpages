@@ -13,8 +13,9 @@
     width: 10%;
 }
 .navbar {
-    background-color: #333;
+   font-weight: bold;
     overflow: hidden;
+    text-decoration: none;
 }
 
 nav > ul{
